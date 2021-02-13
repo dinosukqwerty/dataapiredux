@@ -3,79 +3,79 @@
             {
               "id": 1,
               "nama": "afif",
-              "alamat": "Pekalongan",
+              "alamat": "Manchester",
               "umur": 24,
               "nohp": "0857412312312"
             },
             {
               "id": 2,
               "nama": "bagus",
-              "alamat": "Jakarta",
+              "alamat": "London",
               "umur": 22,
               "nohp": "0838412312312"
             },
             {
               "id": 3,
               "nama": "hendro",
-              "alamat": "Ngawi",
+              "alamat": "Amsterdam",
               "umur": 23,
               "nohp": "08574195842312"
             },
             {
               "id": 4,
               "nama": "hadi",
-              "alamat": "Palu",
+              "alamat": "Paris",
               "umur": 21,
               "nohp": "08574195842312"
             },
             {
               "id": 5,
               "nama": "esti",
-              "alamat": "Lampung",
+              "alamat": "Berlin",
               "umur": 24,
               "nohp": "08574195842312"
             },
             {
               "id": 6,
               "nama": "yayan",
-              "alamat": "Groboga",
+              "alamat": "Munich",
               "umur": 21,
               "nohp": "08574295842312"
             },
             {
               "id": 7,
               "nama": "raisa",
-              "alamat": "Malang",
+              "alamat": "Liverpool",
               "umur": 23,
               "nohp": "08574195842312"
             },
             {
               "id": 8,
               "nama": "gatra",
-              "alamat": "Solo",
+              "alamat": "Madrid",
               "umur": 23,
               "nohp": "08574195842312"
             },
             {
               "id": 9,
               "nama": "bambang",
-              "alamat": "Salatiga",
+              "alamat": "Roma",
               "umur": 23,
               "nohp": "08574195842312"
             },
             {
               "id": 10,
               "nama": "Budi",
-              "alamat": "Kediri",
+              "alamat": "Napoli",
               "umur": 27,
               "nohp": "08574195842312"
             },
             {
               "id": 11,
               "nama": "dedi",
-              "alamat": "Aceh",
+              "alamat": "Dublin",
               "umur": 25,
               "nohp": "08574195842312"
             }
-          ]
+        ]
 }
